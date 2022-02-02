@@ -1,3 +1,5 @@
 # solidity-auto-compiler
 
-Set the global PATH variable as your root directory of solidity files and you are ready to go  
+## Usage
+
+Set the global PATH variable as root directory of your solidity files.
