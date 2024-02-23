@@ -7,8 +7,6 @@ from solc import compile_standard
 
 
 PATH = "input your .sol files root directory here"
-#/Users/msmacpro/DEVELOPMENT/BlockChain/eth-projects/solidity-compiler/
-
 def compileInSolidity(event):
     source = event.src_path
     file = event.src_path.split("/")[-1]
