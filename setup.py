@@ -8,7 +8,6 @@ setup(
     author='Mustafa Demirci',
     author_email='your-email@example.com',  # Eğer paylaşmak istiyorsanız
     license='GNU',
-    packages=find_packages(),  # Modül yerine paket kullanıldığı için
     install_requires=[  # Bağımlılıklarınızı burada belirtin
         'py-solc-x',
         'watchdog'
